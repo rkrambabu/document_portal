@@ -3,3 +3,6 @@ env
 env/
 document_portal.egg-info
 logs/
+logger/__pycache__
+*/__pycache__
+
